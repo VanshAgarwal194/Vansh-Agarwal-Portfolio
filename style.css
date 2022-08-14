@@ -1,0 +1,25 @@
+body {
+    background-image: url("Teal-and-Orange-Simple-Light-Blogger-Portfolio---Resume-Website.png");
+    color: aliceblue
+      
+  }
+  
+  
+  
+  a:link {
+    background-color: transparent;
+  }
+  
+  a:hover {
+    background-color: white;
+    transform: scale(2)
+  }
+  
+  a:active {
+    background: white;
+    color: aqua;
+  }
+  
+  
+  
+  
